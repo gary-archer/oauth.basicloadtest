@@ -10,6 +10,6 @@
         "clientSecret": "iSqXCyB40K0zaY-ErWv73d0taYNeP5UHwvlJkydb",
         "userId":       "guestuser@mycompany.com",
         "password":     "",
-        "scope":        "openid email profile basicapi"
+        "scope":        "openid email profile transactions_read"
     }
 }
